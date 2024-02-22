@@ -1,0 +1,40 @@
+
+b
+java:S1192-"GDefine a constant instead of duplicating this literal "Tahoma" 5 times.(çõçøÿÿÿÿ
+C
+java:S16041"(Make this anonymous inner class a lambda(óôùõøÿÿÿÿ
+>
+java:S1604>"(Make this anonymous inner class a lambda(°ëû®
+C
+java:S1604G"(Make this anonymous inner class a lambda(‰¹àøÿÿÿÿ
+D
+java:S1604µ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çËÚ
+t
+java:S1450½"^Remove the "buttonLoginBack" field and declare it as a local variable in the relevant methods.(²ë|
+u
+java:S1450¾"_Remove the "buttonLoginEnter" field and declare it as a local variable in the relevant methods.(´˜£]
+r
+java:S1450¿"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450À"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450Á"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+A
+java:S1172€"*Remove this unused method parameter "evt".(·Í«à
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172„"*Remove this unused method parameter "evt".(¸ò¢Ö
+A
+java:S1172ˆ"*Remove this unused method parameter "evt".(§ğ†Â
+T
+java:S3252•"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(ªÛã‹
+F
+java:S1197œ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(¨¦Š½
+\
+java:S2147­"ECombine this catch with the one at line 171, which has the same body.(ã€ 
+[
+java:S2147¯"ECombine this catch with the one at line 173, which has the same body.(ñÎ¯%
